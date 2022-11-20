@@ -1,3 +1,5 @@
+[CSharpDateCalculator/Calculator/Calculator.cs] 
+
 - Setter
 
 ```
@@ -30,5 +32,6 @@ Console.WriteLine("남은 날짜 : {0}   남은 시간 : {1}", calculator.GetDay
 ```
 
 
-
 ![image](https://user-images.githubusercontent.com/26586104/202908554-51f1a934-c1c0-4283-9646-38b752e6b424.png)
+
+[CSharpDateCalculator/Calculator/Calculator.cs]: https://github.com/padamu1/CSharpDateCalculator/blob/4c8312ad55a613403c8fa22ef0936e9dac6e2b6c/CSharpDateCalculator/Calculator/Calculator.cs
